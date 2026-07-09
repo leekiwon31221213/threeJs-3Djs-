@@ -1,0 +1,13 @@
+html,
+body {
+}
+
+.three-study-page {
+  width: 100%;
+  height: 100vh;
+}
+
+#threeCanvas {
+  width: 100%;
+  height: 100%;
+}
